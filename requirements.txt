@@ -1,0 +1,7 @@
+streamlit
+tensorflow-cpu
+numpy
+nltk
+matplotlib
+deep-translator
+h5py
